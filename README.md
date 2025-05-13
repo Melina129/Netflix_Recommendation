@@ -7,7 +7,7 @@ Bu proje, Netflix veri seti kullanılarak (kaggle) geliştirilmiş içerik taban
 Uygulamayı canlı olarak görmek için:  
 👉 [https://netflixrecommendation-femeogktn4xzapfshhcxnd.streamlit.app](https://netflixrecommendation-femeogktn4xzapfshhcxnd.streamlit.app)
 
-content_based.py python dosyası ise kullanııdan input alarak öneri yapıyor o şekilde de kullanabilirsiniz ama dosya yolunun doğru olduğundan emin olun!
+content_based.py python dosyası ise kullanıcıdan input alarak öneri yapıyor o şekilde de kullanabilirsiniz ama dosya yolunun doğru olduğundan emin olun!
 
 ## 📌 Kullanılan Özellikler
 
