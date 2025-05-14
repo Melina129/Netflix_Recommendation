@@ -8,6 +8,8 @@ Uygulamayı canlı olarak görmek için:
 👉 [https://netflixrecommendation-femeogktn4xzapfshhcxnd.streamlit.app](https://netflixrecommendation-femeogktn4xzapfshhcxnd.streamlit.app)
 Not: Streamlitte error vermemesi için optimizasyon yapıldı!
 
+Çalışması için film veya dizi isimlerini ingilizce olarak girmeniz gerekiyor!
+
 content_based.py python dosyası ise kullanıcıdan input alarak öneri yapıyor o şekilde de kullanabilirsiniz ama dosya yolunun doğru olduğundan emin olun!
 
 ## 📌 Kullanılan Özellikler
